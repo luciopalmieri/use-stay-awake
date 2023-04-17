@@ -1,6 +1,7 @@
 {
   "name": "use-stay-awake",
   "version": "0.1.7",
+  "type": "module",
   "license": "MIT",
   "description": "React hook that will help the device stay awake while actively using your website or app.",
   "author": "roldanjr",
