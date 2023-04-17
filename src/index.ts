@@ -4,6 +4,13 @@ import videoWebm from "./assets/blank.webm";
 import videoMp4 from "./assets/blank.mp4";
 
 const useStayAwake = () => {
+  if (typeof window === 'undefined') {
+    const canSleep = true;
+    const preventSleeping = () => {};
+    const allowSleeping = () => {};
+    return { canSleep, preventSleeping, allowSleeping };
+  }
+
   const _video = useRef(document.createElement("video"));
 
   const [canSleep, setCanSleep] = useState(true);
