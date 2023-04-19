@@ -27,13 +27,13 @@
 1. Using Yarn
 
    ```sh
-    yarn add use-stay-awake
+    yarn add use-stay-awake-nextjs
    ```
 
 2. Using NPM
 
    ```sh
-    npm install use-stay-awake
+    npm install use-stay-awake-nextjs
    ```
 
 ## :100: Usage
