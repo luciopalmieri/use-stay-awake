@@ -1,6 +1,6 @@
 {
   "name": "use-stay-awake-nextjs",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "type": "module",
   "license": "MIT",
   "description": "React hook that will help the device stay awake while actively using your website or app.",
