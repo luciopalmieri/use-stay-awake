@@ -18,16 +18,22 @@
 
 ## :comet: Installation
 
+1. Using PNPM
+
+   ```sh
+    pnpm add use-stay-awake-nextjs
+   ```
+
 1. Using Yarn
 
    ```sh
-    yarn add --dev use-stay-awake
+    yarn add use-stay-awake
    ```
 
 2. Using NPM
 
    ```sh
-    npm install --save use-stay-awake
+    npm install use-stay-awake
    ```
 
 ## :100: Usage
