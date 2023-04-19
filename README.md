@@ -1,6 +1,6 @@
-# use-stay-awake
+# use-stay-awake-nextjs
 
-[Live Demo](https://roldanjr.github.io/use-stay-awake/)
+[Live Demo](https://github.com/luciopalmieri/use-stay-awake-nextjs/)
 
 > React hook that make device stay awake while actively using your website.
 

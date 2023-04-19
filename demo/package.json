@@ -2,7 +2,7 @@
   "name": "demo",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://roldanjr.github.io/use-stay-awake/",
+  "homepage": "https://github.com/luciopalmieri/use-stay-awake-nextjs/",
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
     "build": "node ../node_modules/react-scripts/bin/react-scripts.js build"
