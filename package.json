@@ -30,7 +30,10 @@
     "keep on",
     "mobile browser",
     "typescript",
-    "react hook"
+    "react hook",
+    "nextjs",
+    "next.js",
+    "next js"
   ],
   "main": "lib/index.js",
   "source": "src/index.ts",
